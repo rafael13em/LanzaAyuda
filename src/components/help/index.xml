@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 2.0//EN" "http://java.sun.com/products/javahelp/index_2_0.dtd">
+<index version="2.0">
+	<indexitem text="Pagina Principal" target="paginaPrincipal"/>
+	<indexitem text="Pagina Reserva Habitaciones">
+		<indexitem text="Datos Cliente" target="clienteHabitaciones"/>
+		<indexitem text="Datos Reserva" target="reservaHabitaciones"/>
+		<indexitem text="Confirmacion Reserva" target="confirmacionHabitaciones"/>
+	</indexitem>
+	<indexitem text="Pagina Reserva Salon Habana">
+		<indexitem text="Datos Cliente" target="clienteSalon"/>
+		<indexitem text="Datos Reserva" target="reservaSalon"/>
+		<indexitem text="Confirmacion Reserva" target="confirmacionSalon"/>
+	</indexitem>
+</index>
